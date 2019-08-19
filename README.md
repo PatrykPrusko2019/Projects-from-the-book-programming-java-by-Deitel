@@ -1,0 +1,78 @@
+Projects from the book "Java programming, solid knowledge in practice" by P. Dietel
+
+chapter_2:
+1. Exercise_15_Calculator -> mini calculator
+2. Exercise_17 -> shows the results of 3 numbers : 
+product,
+sum,
+average,
+minimum value, maximum value
+2. Exercise_18 -> shows some graphics
+3. Exercise_24_25_26_27 -> show result :
+value minimum, value maximum, even, odd, calculates wheel area, wheel circumference, wheel diameters
+4. Exercise_30 -> shows the 5 digit number
+5. Exercise_35 -> shows the cost of commuting to work by car
+
+chapter_3:
+1. exercise_3_12 -> shows product data
+2. exercise_3_13_shows_employee_salaries -> shows employee salaries before and after a given increase
+3. exercise_3_14_validates_the_date -> validates the date
+4. exercise_3_15_Retrieving_and_displaying -> Retrieving and displaying floating point numbers from Account objects
+
+chapter_4:
+1. exercise_4_13_calculates_the_sum_of_the_given_number -> calculates the sum of the given number
+2. exercise_4_17_creates_trips_and_the_cost_of_their_travel -> creates trips and the cost of their travel
+3. exercise_4_18_checks_the_status_of_the_customers_account -> checks the status of the customer's account
+4. exercise_4_19_calculateMonthlyPayment -> calculate Monthly Payment 
+5. exercise_4_21_displays_the_largest_number -> displays the largest number
+6. exercise_4_22_shows_the_array -> shows th array
+7. exercise_4_23_finding_2_largest_numbers_out_of_10_given -> finding 2 largest numbers out of 10 given
+8. exercise_4_25 -> shows even / odd number graphics
+9. exercise_4_26 -> shows even / odd number graphics
+10. exercise_4_28 -> shows graphics
+11. exercise_4_33_Chessboard - > shows chessboard
+12. exercise_4_36_Triangle -> sides of the triangle
+13. exercise_4_38_calculates_the_factorial - > calculates the factorial
+
+chapter_5:
+1. exercise_19_shows_Logical_Operators -> shows Logical Operators
+2. Zad_5_12_product_of_odd_numbers -> product of odd numbers
+3. Zad_5_13_factorial_number -> factorial number
+4. Zad_5_14_interest -> interest
+5. Zad_5_16_draws_stars -> draws stars
+6. Zad_5_18_interest -> interest second version
+7. Zad_5_20_PI_number -> PI number
+8. Zad_5_23_conditions -> conditions
+10. Zad_5_25_create_diamond -> 1 - 19 range create diamond
+11. Zad_5_26_loop_test -> loop test
+12. Zad_5_27_draws_squares -> draws squares
+13. Zad_5_29_text_selection - > text selection
+
+chapter_6:
+1. exercise_6_10_rounding_tests -> rounding tests
+2. Exercise_6_3_Math_class_test -> Math class test
+3. Exercise_6_6_calculates_the_volume_of_the_ball -> calculates the volume of the ball
+4. Exercise_6_9_rounding_test -> rounding test
+5. Exercise_6_12_test_of_conditions -> test of conditions
+6. Exercise_6_13 -> test of conditions
+7. Exercise_6_14_calculates_to_power -> calculates to power
+8. Exercise_6_15_calculate_third_element_of_the_triangle -> calculate the third element of the triangle
+9. Exercise_6_16_checkIfValueIsMultipleOf -> checks if the value is a multiple of
+10. Exercise_6_17_ifPositiveValue -> gets a given number of digits and checks if it is positive or not
+11. Exercise_6_18_createsSquare -> gets the given number of digits and creates a square
+12. Exercise_6_20_calculatesCircleArea -> calculates circle area
+13. Exercise_6_21 -> test method -> restFromSharing, calculationOfTheQuotient, displayDigits
+14. Exercise_6_23_minDoubleValue -> minimum double value
+15. Exercise_6_24_perfectNumber -> An excellent number
+16. Exercise_6_25_valuePrime -> displays up to 10,000 prime numbers
+17. Exercise_6_26_reverseNumber -> reverse Number
+18. Exercise_6_36_multiplicationTableForStudents -> multiplication table for students
+19. Exercise_6_37_multiplicationTableForStudents -> multiplication table for students second version
+20. Exercise_6_27_greatestCommonDivisor -> greatest common divisor
+
+chapter_7:
+1. Exercise_7_8_countingSumOf100Elements -> counting the sum of 100 elements, we copy the content to the 34 element table
+2. Exercise_7_11_showsArray -> shows array
+3. Exercise_7_14 -> varargs in java
+4. Exercise_7_17_rollingDice -> result Of Rolling Dice
+5. Exercise_7_22_64MovesOfJumper -> 64 moves of the jumper on the chessboard

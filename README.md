@@ -76,3 +76,33 @@ chapter_7:
 3. Exercise_7_14 -> varargs in java
 4. Exercise_7_17_rollingDice -> result Of Rolling Dice
 5. Exercise_7_22_64MovesOfJumper -> 64 moves of the jumper on the chessboard
+
+adds new exercises:
+
+Chapter_8 :
+1. Exercise_8_4 Test Rectangle
+2. Exercise_8_5 Test Time
+3. Exercise_8_6 Savings Account
+4. Exercise_8_7 adds seconds, minutes, hours to a given time
+5. Exercise_8_8 test date, adds day, month, year
+6. Exercise_8_10 Enums
+7. Exercise_8_11 imaginary numbers real part + imaginary part * and -> where i -> the root of -1, adds and subtracts
+8. Exercise_8_12 Test date and Time, works until the current date and until 23:59:59 hours. -> e.g. today is 6/10/2019 hours there -> the date is working today, and time changes all the time forward
+9. Exercise_8_13 test arrays
+10. Exercise_8_14 test date , checks if the year is leap
+11. Exercise_8_16 rational numbers, adds, subtracts, multiplies
+12. Exercise_8_17 big integers test, adds, multiplies, divides, compares
+
+Chapter_9 : 
+1. Exercise_9_3
+2. Exercise_9_8 shows the field square, rectangle, quadrilateral, parallelogram
+3. Exercise_9_10
+4. Exercise_9_14
+5. Exercise_9_15 tests employees earnings
+6. Exercise_9_16 shows employee earnings
+
+Chapter_10:
+1. exercise_10_13 Payroll System Test
+2. exercise_10_14 Calculates the volume and area of various figures
+3. exercise_10_18 The Payable interface testing program enables the processing of Invoice and Employee objects in a polymorphic way
+4. exercise_10_19 Calculates the CO2 consumption of various vehicles

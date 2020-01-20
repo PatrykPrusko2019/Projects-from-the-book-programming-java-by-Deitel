@@ -106,3 +106,12 @@ Chapter_10:
 2. exercise_10_14 Calculates the volume and area of various figures
 3. exercise_10_18 The Payable interface testing program enables the processing of Invoice and Employee objects in a polymorphic way
 4. exercise_10_19 Calculates the CO2 consumption of various vehicles
+
+Chapter_11: 
+Test of exceptions from 1 to 6 exercises.
+1. Exercise_11_16
+2. Exercise_11_17
+3. Exercise_11_18
+4. Exercise_11_19
+5. Exercise_11_20
+6. Exercise_11_21

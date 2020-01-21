@@ -115,3 +115,9 @@ Test of exceptions from 1 to 6 exercises.
 4. Exercise_11_19
 5. Exercise_11_20
 6. Exercise_11_21
+
+Chapter_14:
+1. Exercise_14_1 counts how many letters are repeated in the text
+2. Exercise_14_4  of the two words given, shows whether the selected fragment is identical
+3. Exercise_14_5 compares words  
+

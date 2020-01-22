@@ -120,4 +120,5 @@ Chapter_14:
 1. Exercise_14_1 counts how many letters are repeated in the text
 2. Exercise_14_4  of the two words given, shows whether the selected fragment is identical
 3. Exercise_14_5 compares words  
-
+4. Exercise_14_6 creates different sentences using a random number generator
+5. Exercise_14_7 converts the English word to pig Latin. Foundation: word has at least 2 characters, the space between words is a space

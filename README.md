@@ -122,3 +122,9 @@ Chapter_14:
 3. Exercise_14_5 compares words  
 4. Exercise_14_6 creates different sentences using a random number generator
 5. Exercise_14_7 converts the English word to pig Latin. Foundation: word has at least 2 characters, the space between words is a space
+6. Exercise_14_8_LettersOfTheAlphabet
+After entering the text by the user, the program counts the sum of each given letter from the alphabet apperaring in the given text.
+7. Exercise_14_9_testWords
+The program shows words that end in “NY” and begin with the letter “b” from among those given by the user.
+8. Exercise_14_10_conversion from integer to char
+The program asks the user to enter 10 numbers, then the result on the console converting from integer to char

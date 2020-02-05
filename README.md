@@ -128,3 +128,14 @@ After entering the text by the user, the program counts the sum of each given le
 The program shows words that end in “NY” and begin with the letter “b” from among those given by the user.
 8. Exercise_14_10_conversion from integer to char
 The program asks the user to enter 10 numbers, then the result on the console converting from integer to char
+9. Exercise_14_11_five_letters_word_for_three_letters
+creating three-letter words from five-letter words
+*
+* The program asks the user to enter a 5 letter word,
+* then finds what combinations can be made 3 words,
+* then displays all combinations and the number of them
+10. Exercise_14_12_counts_the_number_of_words_in_text
+/**
+ * The program asks you to enter the sentence used, 1 space as a comma,
+ * then count the number of repetitions of words and the result at the end.
+ */

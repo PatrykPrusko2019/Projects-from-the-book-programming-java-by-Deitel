@@ -139,3 +139,111 @@ creating three-letter words from five-letter words
  * The program asks you to enter the sentence used, 1 space as a comma,
  * then count the number of repetitions of words and the result at the end.
  */
+ 11. Exercise_14_13_show_check
+  shows the correct statement from a given check:
+ - item 9 maximum
+ - if there are empty fields, please fill in: *
+
+ example of operation:
+
+
+ enter the amount, maximum length of 9 items (for example 99 999,99 euros):
+ sda
+ wrong value
+ enter the amount, maximum length of 9 items (for example 99 999,99 euros):
+ 87.78
+ amount is ok
+ valid check:
+ ****87.78
+ Process finished with exit code 0
+ 
+ 12. Exercise_14_14_AmountForText
+ 
+ the amount 0.00 - 1000.00 is given, then the text is converted to a string and the result is given at the end.
+ *  If you enter an incorrect value, you will be asked again to enter the correct amount.
+ *  Example of application:
+ *
+ *  give me a amount, range 0.00 - 1000.00:
+ *  817.63
+ *  amount is approx
+ *  AMOUNT OF USER: 817.63, NUMBER AFTER CHANGES TO THE TEXT:
+ *   eight hundred and seventeen euros sixty-three cents -> the result is given in euros and cents
+ 
+ 13. Exercise_14_15_morse_code_text:
+ 
+ The program converts plain text downloaded from the user into a morse code.
+ *
+ * Later, it turns the walrus code into plain text that the user understands. You must enter one character at a time,
+ * the comma serves as a pause between words, to end you need to use the word stop
+ * The result shows at the end as text.
+ *
+ * Examples of program operation:
+ *
+ *  please give me a text to convert to morse code:
+ * jestem ciekawy  (I'm curious)
+ * .---. ... - - -.-. ... -.- .- .-- -.--
+ * please give me a morse code to convert to text:
+ * Show code morse -> letter in alphabet:
+ * .- -> A
+ * -... -> B
+ * -.-. -> C.
+ * - .. -> D
+ * . -> E
+ * ..-. -> F
+ * -. -> G
+ * .... -> H
+ * .. -> And
+ * .--- -> J
+ * -.- -> K
+ * .- .. -> L
+ * - -> M
+ * -. -> N
+ * --- -> O
+ * .--. -> P
+ * --.- -> Q
+ * .-. -> R
+ * ... -> S
+ * - -> T.
+ * ..- -> U
+ * ...- -> V
+ * .-- -> W
+ * -..- -> X
+ * -.-- -> Y
+ * - .. -> Z
+ * .---- -> 1
+ * ..--- -> 2
+ * ...-- -> 3
+ * ....- -> 4
+ * ..... -> 5
+ * -.... -> 6
+ * --... -> 7
+ * --- .. -> 8
+ * ----. -> 9
+ * ----- ->
+ * sign comma in morse code -> - •• -, use this sign as spaces between words
+ * .---
+ * add new sign of code morsea ... please again (stop -> finish adding new sign)
+ * .
+ * add new sign of code morsea ... please again (stop -> finish adding new sign)
+ * ...
+ * add new sign of code morsea ... please again (stop -> finish adding new sign)
+ * -
+ * add new sign of code morsea ... please again (stop -> finish adding new sign)
+ * .
+ * add new sign of code morsea ... please again (stop -> finish adding new sign)
+ * -
+ * add new sign of code morsea ... please again (stop -> finish adding new sign)
+ * - •• -
+ * add new sign of code morsea ... please again (stop -> finish adding new sign)
+ * -
+ * add new sign of code morsea ... please again (stop -> finish adding new sign)
+ * ..-
+ * add new sign of code morsea ... please again (stop -> finish adding new sign)
+ * Stop
+ * add new sign of code morsea ... please again (stop -> finish adding new sign)
+ * alphabet text: JESTEM TU   (I AM HERE)
+ *
+ * Process finished with exit code 0
+ 
+ 
+ 

@@ -246,4 +246,15 @@ creating three-letter words from five-letter words
  * Process finished with exit code 0
  
  
+ Chapter_19_algorithms: 
+ 
+1. Exercise_19_5_BubbleSort :
+ program that tests the Bubble Sort algorithm
+2. Exercise_19_6_better_version_BubbleSort :
+ A program that tests the Bubble Sort algorithm. Adding a boolean exit variable
+ to shorten the algorithm, and adding the variable i to the inner loop.
+ There is an improvement in the speed of the algorithm.
+
+ 
+ 
  

@@ -254,6 +254,100 @@ creating three-letter words from five-letter words
  A program that tests the Bubble Sort algorithm. Adding a boolean exit variable
  to shorten the algorithm, and adding the variable i to the inner loop.
  There is an improvement in the speed of the algorithm.
+3. Exercise_19_7_bucketSort : 
+ use of the bucket sort algorithm, Examples of program operation:
+ 
+ 
+array before sorting: 
+array [0] :
+     3    10    15     6     7     4     9    77     8     6
+array [1] :
+     8     3    17  -101    25     7    99   160   600   765
+array [2] :
+    35   101    15    16    77   544    99   717     8     6
+array [3] :
+    13   110    15     6    17    24    49   577   338    64
+array [4] :
+    31    10   151     6     7    14    29  -771    82    63
+array [5] :
+    37   150    15     6   -47     4    49   677    58   106
+array [6] :
+     3     1   115   611    71     4     9   772    83    62
+array [7] :
+     3   110 -1125   326    47     4     9   277     8   336
+array [8] :
+     3   107    15     0    74   433     9     0    83     6
+array [9] :
+     3    10   154     0    74     4    95    77    83    16
+
+array after bucket sorting: 
+array [0] :
+     3     4     6     6     7     8     9    10    15    77
+array [1] :
+     3     7     8    17    25    99   101   160   600   765
+array [2] :
+     6     8    15    16    35    77    99   101   544   717
+array [3] :
+     6    13    15    17    24    49    64   110   338   577
+array [4] :
+     6     7    10    14    29    31    63    82   151   771
+array [5] :
+     4     6    15    37    47    49    58   106   150   677
+array [6] :
+     1     3     4     9    62    71    83   115   611   772
+array [7] :
+     3     4     8     9    47   110   277   326   336  1125
+array [8] :
+     0     0     3     6     9    15    74    83   107   433
+array [9] :
+     0     3     4    10    16    74    77    83    95   154
+
+
+array with random values before sorting: 
+array [0] :
+  -859  -744  -818  -793  -651   996   413   636  -183  -879
+array [1] :
+  -402  -823  -784  -534  -534  -764   327  -583   182  -990
+array [2] :
+   273  -632   758 -1000   892   809   246   188    90  -433
+array [3] :
+   -12   457  -747  -399  -135  -511  -504   -78  -717   361
+array [4] :
+  -988   639   680  -808  -760  -148  -545    34   631  -315
+array [5] :
+  -277  -907  -133   356   526   227  -214   848   639   770
+array [6] :
+  -160  -869   442  -210  -473  -577   394  -595   332    66
+array [7] :
+   -68   131   292  -524   702  -817   721   432   372   816
+array [8] :
+    -9   496    33  -857  -516   846  -504  -449   648   859
+array [9] :
+  -553   -36   770  -567  -762   234    35  -748  -772  -613
+
+array with random values after bucket sorting: 
+array [0] :
+   183   413   636   651   744   793   818   859   879   996
+array [1] :
+   182   327   402   534   534   583   764   784   823   990
+array [2] :
+    90   188   246   273   433   632   758   809   892  1000
+array [3] :
+    12    78   135   361   399   457   504   511   717   747
+array [4] :
+    34   148   315   545   631   639   680   760   808   988
+array [5] :
+   133   214   227   277   356   526   639   770   848   907
+array [6] :
+    66   160   210   332   394   442   473   577   595   869
+array [7] :
+    68   131   292   372   432   524   702   721   816   817
+array [8] :
+     9    33   449   496   504   516   648   846   857   859
+array [9] :
+    35    36   234   553   567   613   748   762   770   772
+
+Process finished with exit code 0
 
  
  

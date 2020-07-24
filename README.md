@@ -79,7 +79,7 @@ chapter_7:
 
 adds new exercises:
 
-Chapter_8 :
+Chapter_8 :LinearSearchTest
 1. Exercise_8_4 Test Rectangle
 2. Exercise_8_5 Test Time
 3. Exercise_8_6 Savings Account
@@ -349,6 +349,38 @@ array [9] :
 
 Process finished with exit code 0
 
+4. Exercise_19_8_recursiveLinearSearch : 
+using recursive linear search finds where the given number by the user is in the array, its index
+
+
+ sample operation:
+
+
+ [65, 63, 77, 66, 62, 45, 54, 86, 68, 61]
+
+ Enter an integer (-1 to finish): 86
+ 86 found in position 7
+
+
+ Process finished with exit code 0
+
+
+ ///////////////////////////////////////////////////////////
+
+
+ [90, 43, 16, 89, 76, 93, 97, 17, 60, 73]
+
+ Enter an integer (-1 to finish): asd
+ bad type value, no integer !!!, java.util.InputMismatchException
+ java.util.InputMismatchException
+ at java.util.Scanner.throwFor(Scanner.java:864)
+ at java.util.Scanner.next(Scanner.java:1485)
+ at java.util.Scanner.nextInt(Scanner.java:2117)
+ at java.util.Scanner.nextInt(Scanner.java:2076)
+ at rozdzial_19.exercise.exercise_19_8_recursiveLinearSearch.LinearSearchTest.start(LinearSearchTest.java:45)
+ at rozdzial_19.exercise.exercise_19_8_recursiveLinearSearch.LinearSearchTest.main(LinearSearchTest.java:29)
+
+ Process finished with exit code 0
  
  
  

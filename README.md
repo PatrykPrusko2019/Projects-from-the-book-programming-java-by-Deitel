@@ -366,6 +366,39 @@ using recursive linear search finds where the given number by the user is in the
 
 
  ///////////////////////////////////////////////////////////
+ 
+ 
+ 5. Exercise_19_9_BinarySearchTest:
+ 
+ using recursive binary search to find an element of an array
+ *
+ * sample operation:
+ *
+ * [14, 16, 18, 19, 34, 36, 40, 52, 61, 65, 72, 75, 82, 85, 86]
+ *
+ * Enter an integer (-1 to quit): 52
+ * 52 found in position 7
+ *
+ *
+ * Process finished with exit code 0
+ *
+ * ///////////////////////////////////////
+ *
+ *[9, 15, 34, 35, 41, 43, 58, 61, 63, 90, 92, 93, 94, 98, 98]
+ *
+ * Enter an integer (-1 to quit): error
+ * wrong value given by user !!!
+ * java.util.InputMismatchException
+ * java.util.InputMismatchException
+ * 	at java.util.Scanner.throwFor(Scanner.java:864)
+ * 	at java.util.Scanner.next(Scanner.java:1485)
+ * 	at java.util.Scanner.nextInt(Scanner.java:2117)
+ * 	at java.util.Scanner.nextInt(Scanner.java:2076)
+ * 	at rozdzial_19.exercise.exercise_19_9.BinarySearchTest.start(BinarySearchTest.java:54)
+ * 	at rozdzial_19.exercise.exercise_19_9.BinarySearchTest.main(BinarySearchTest.java:41)
+ *
+ * Process finished with exit code 0
+ 
 
 
  [90, 43, 16, 89, 76, 93, 97, 17, 60, 73]

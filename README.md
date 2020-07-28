@@ -399,21 +399,24 @@ using recursive linear search finds where the given number by the user is in the
  *
  * Process finished with exit code 0
  
-
-
- [90, 43, 16, 89, 76, 93, 97, 17, 60, 73]
-
- Enter an integer (-1 to finish): asd
- bad type value, no integer !!!, java.util.InputMismatchException
- java.util.InputMismatchException
- at java.util.Scanner.throwFor(Scanner.java:864)
- at java.util.Scanner.next(Scanner.java:1485)
- at java.util.Scanner.nextInt(Scanner.java:2117)
- at java.util.Scanner.nextInt(Scanner.java:2076)
- at rozdzial_19.exercise.exercise_19_8_recursiveLinearSearch.LinearSearchTest.start(LinearSearchTest.java:45)
- at rozdzial_19.exercise.exercise_19_8_recursiveLinearSearch.LinearSearchTest.main(LinearSearchTest.java:29)
-
- Process finished with exit code 0
+ 6. Exercise_19_10_QuickSort:
+ 
+the use of quick sort, consisting in:
+ * 1. getPartition method (indexStart, indexEnd) -> sets division based on given value and splits into two subarrays.
+ * First left subarray values ​​less than split number, right subarray values ​​greater than split number.
+ * 2. quickSortHelper method (leftIndex, rightIndex) -> sorts left subarrays, then right.
+ * 3. Finally, it displays the given array sorted.
+ *
+ * program operation:
+ *
+ * array before sorting:
+ * the contents of the array:
+ * 37	 2	 6	 4	 89	 8	 10	 12	 68	 45
+ * array after sorting:
+ * the contents of the array:
+ * 2	 4	 6	 8	 10	 12	 37	 45	 68	 89
+ *
+ * Process finished with exit code 0
  
  
  

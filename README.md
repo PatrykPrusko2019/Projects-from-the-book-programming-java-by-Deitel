@@ -420,3 +420,45 @@ the use of quick sort, consisting in:
  
  
  
+ Chapter_20:
+ 
+ 1. Exercise_20_4_selection_sort:
+ 
+ Sort using the generalized method by selecting Selection Sort.
+ * As a test, it creates 6 arrays of the Float, Integer, Double, String, Character type.
+ * The selectionSort () method then sorts the given arrays.
+ * The printsArray () method then displays the given arrays.
+ *
+ *
+ * program operation:
+ *
+ * 6 arrays before sorting:
+ *
+ * arrayFloat:
+ * 	5.1		3.6		4.2		11.1		19.0		7.2
+ * arrayInteger:
+ * 	5		3		4		11		19		7
+ * arrayDouble:
+ * 	5.1		3.4		4.7		11.0		19.8		7.3
+ * arrayString:
+ * 	Blazej		Anna		Lucjan		Kacper		Patrycja
+ * arrayCharacter:
+ * 	b		c		a		z		m
+ * 6 arrays after sorting:
+ *
+ * arrayFloat:
+ * 	3.6		4.2		5.1		7.2		11.1		19.0
+ * arrayInteger:
+ * 	3		4		5		7		11		19
+ * arrayDouble:
+ * 	3.4		4.7		5.1		7.3		11.0		19.8
+ * arrayString:
+ * 	Anna		Blazej		Kacper		Patrycja		Lucjan
+ * arrayCharacter:
+ * 	a		b		c		m		z
+ *
+ * Process finished with exit code 0
+ 
+ 
+ 
+ 

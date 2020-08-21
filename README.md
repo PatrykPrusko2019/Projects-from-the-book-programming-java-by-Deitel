@@ -460,5 +460,96 @@ the use of quick sort, consisting in:
  * Process finished with exit code 0
  
  
+ 2. Exercise_20_5_GenericMethodTest:
+ 
+ testing the overloaded generalized printArray method. The use of your error exception.
+ *
+ *  program operation:
+ *
+ * use of the generalized method:
+ *
+ * The array integerArray contains: 1 2 3 4 5
+ * The Array doubleArray contains: 1.1 2.2 3.3 4.4 5.5 6.6 7.7
+ * The Array characterArray contains: W I T A J
+ *
+ *
+ * use of the overloaded generalized print Array:
+ *
+ * The array integerArray contains: rozdzial_20.exercise.exercise_20_5.InvalidIndexException: Invalid Index Exception !!!!!
+ * rozdzial_20.exercise.exercise_20_5.GenericMethodTest.start(GenericMethodTest.java:38)
+ * number of items displayed = 0
+ * The Array doubleArray contains: 1.1  2.2  3.3  4.4  5.5  number of items displayed = 5
+ * The Array characterArray contains: T  number of items displayed = 1
+ * The array integerArray contains: rozdzial_20.exercise.exercise_20_5.InvalidIndexException: Invalid Index Exception !!!!!
+ * rozdzial_20.exercise.exercise_20_5.GenericMethodTest.start(GenericMethodTest.java:45)
+ * number of items displayed = 0
+ * The Array doubleArray contains: 1.1  2.2  3.3  4.4  5.5  number of items displayed = 5
+ * The Array characterArray contains: rozdzial_20.exercise.exercise_20_5.InvalidIndexException: Invalid Index Exception !!!!!
+ * rozdzial_20.exercise.exercise_20_5.GenericMethodTest.start(GenericMethodTest.java:49)
+ * number of items displayed = 0
+ *
+ * Process finished with exit code 0
+ 
+ 3. Exercise_20_8_TestPair:
+ 
+ Testing the generalized class of Pairs
+ * creates 3 Pair objects with two elements or with a map and display the results
+ *
+ * program operation:
+ *
+ *
+ * the contents of the pair object:
+ *
+ * shows the map content:
+ * 1. 	key: 26	 value: string second
+ * 2. 	key: 13	 value: string first
+ * object content Pair:
+ * elementFirst: is empty !!!	, elementSecond: is empty !!!
+ *
+ * the contents of the pair2 object:
+ *
+ * object content Pair:
+ * elementFirst: keyString	, elementSecond: 13
+ *
+ * maps is empty !!!
+ * element first : keyString
+ *
+ * the contents of the pair3 object:
+ *
+ * object content Pair:
+ * elementFirst: newKeyString	, elementSecond: 23
+ *
+ * shows the map content:
+ * 1. 	key: 26	 value: string second
+ * 2. 	key: 13	 value: string first
+ *
+ * Process finished with exit code 0
+ 
+ 
+ 
+ 
+ Chapter_21_data structures:
+ 
+ 1. Exercise_21_7_sortOneWayList:
+ 
+ Tests a one-way list. Creating a new one-way list and sorts values in ascending order before inserting a given node. Finally, it checks a method that finds the contents of the given one-way list index and the list size.
+ *
+ * program operation:
+ *
+ * Regular array contents: [45, 34, 63, 24, 89, 76, 44, 73, 70, 33, 11, 78, 58, 42, 2, 44, 67, 72, 82, 76, 39, 24, 37, 36, 64]
+ *
+ * Creating a new one-way list and sorting the values in ascending order
+ *
+ *
+ * Sorting one-way list:
+ *  2	11	24	24	33	34	36	37	39	42	44	44	45	58	63	64	67	70	72	73	76	76	78	82	89
+ *
+ * the contents of the index [ 6 ] of a one-way list: 36
+ * the size of a one-way list : 25
+ *
+ * Process finished with exit code 0
+ 
+ 
+ 
  
  

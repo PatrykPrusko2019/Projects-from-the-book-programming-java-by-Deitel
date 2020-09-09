@@ -550,6 +550,80 @@ the use of quick sort, consisting in:
  * Process finished with exit code 0
  
  
+ 2. Exercise_21_8_merged_two_one_way_lists:
+ Concatenate and sort 2 one-way lists with merge (), and concatenate and unsort 2 one-way lists
+ * with mergeWithoutSort (). Testing the merge () and mergeWithoutSort () methods,
+ * then creating different types of lists with their ascending sort,
+ * and testing the mergeWithoutSort () method and the sort () method on 2 String lists.
+ 
+ program operation:
+ 
+ first list:
+2	10	15	20	24	28	31	33	35	36	39	41	48	51	51	57	59	65	70	76	76	80	81	88	97	
+second list:
+3	8	8	10	12	17	22	27	30	32	42	51	52	54	61	63	65	66	69	73	73	89	93	95	97	
+
+combine 2 one-way lists and sort them:
+
+first list:
+2	3	8	8	10	10	12	15	17	20	22	24	27	28	30	31	32	33	35	36	39	41	42	48	51	51	51	52	54	57	59	61	63	65	65	66	69	70	73	73	76	76	80	81	88	89	93	95	97	97	
+size of new list: 50
+concatenation of 2 lists without sorting:
+
+first list:
+2	3	8	8	10	10	12	15	17	20	22	24	27	28	30	31	32	33	35	36	39	41	42	48	51	51	51	52	54	57	59	61	63	65	65	66	69	70	73	73	76	76	80	81	88	89	93	95	97	97	3	8	8	10	12	17	22	27	30	32	42	51	52	54	61	63	65	66	69	73	73	89	93	95	97	
+ size: 75
+
+sorted list: 
+
+first list:
+2	3	3	8	8	8	8	10	10	10	12	12	15	17	17	20	22	22	24	27	27	28	30	30	31	32	32	33	35	36	39	41	42	42	48	51	51	51	51	52	52	54	54	57	59	61	61	63	63	65	65	65	66	66	69	69	70	73	73	73	73	76	76	80	81	88	89	89	93	93	95	95	97	97	97	
+ size: 75
+test method: display the contents of the first list, from index [ 7 ]:10
+
+
+tests the two list of Strings:
+
+stringListFirst:
+anna	beza	bro	wac	
+stringListSecond:
+anna	bro	jeden	sabina	
+
+tests the combination of two String lists, without sorting:
+
+stringListFirst:
+anna	beza	bro	wac	anna	bro	jeden	sabina	
+
+string list after sort: 
+
+stringListFirst:
+anna	anna	beza	bro	bro	jeden	sabina	wac	
+
+
+
+tests creating new lists and sorting of different types: 
+
+
+
+stringListFirst:
+anna	anna	beza	bro	bro	jeden	sabina	wac	
+character list:
+a	b	t	w	
+double list:
+7.9	24.5	24.7	27.8	88.7	
+float list:
+7.9	24.5	24.7	27.8	88.7	
+short list:
+7	23	24	27	88	
+byte list:
+11	13	66	77	122	
+long list:
+4	9	13	66	77	
+integer list:
+7	9	13	77	122	
+Process finished with exit code 0
+ 
+ 
  
  
  

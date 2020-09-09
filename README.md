@@ -551,10 +551,13 @@ the use of quick sort, consisting in:
  
  
  2. Exercise_21_8_merged_two_one_way_lists:
+ 
  Concatenate and sort 2 one-way lists with merge (), and concatenate and unsort 2 one-way lists
  * with mergeWithoutSort (). Testing the merge () and mergeWithoutSort () methods,
  * then creating different types of lists with their ascending sort,
  * and testing the mergeWithoutSort () method and the sort () method on 2 String lists.
+ Adding and testing two methods ReturnListValueFromGivenIndex () -> returns the value that is at the 
+  given index number. The getSize () -> method returns the size of the list.
  
  program operation:
  
